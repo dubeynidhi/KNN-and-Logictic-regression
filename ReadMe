@@ -1,0 +1,2 @@
+Download MNIST Dataset from http://yann.lecun.com/exdb/mnist
+Change the URL in code to the folder where you downloaded the dataset and run. The codes implement K-Nearest Neighbours and Logistic regression on the same data and produce results. 
